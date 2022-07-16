@@ -1,3 +1,6 @@
+![license](https://img.shields.io/github/license/PandaDiestro/FODA-interactivo?style=for-the-badge)
+![issues](https://img.shields.io/github/issues/PandaDiestro/FODA-interactivo?color=red&style=for-the-badge)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/PandaDiestro/FODA-interactivo/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
