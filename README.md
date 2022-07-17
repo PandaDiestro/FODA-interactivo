@@ -3,4 +3,4 @@
 
 ## Análisis FODA Interactivo
 
-Soy Rodrigo Alva, de la sección 3 y <a href="https://pandadiestro.github.io/FODA-interactivo/juego/juego.html">este</a> es un proyecto interactivo donde puse todas mis fortalezas y debilidades en un ruleta que se detiene al hacer click en una de las debilidades, para luego ser analizada.
+Soy Rodrigo Alva, de la sección 3 y <a href="https://pandadiestro.github.io/FODA-interactivo/juego/juego.html"><b>este</b></a> es un proyecto interactivo donde puse todas mis fortalezas y debilidades en un ruleta que se detiene al hacer click en una de las debilidades, para luego ser analizada.
